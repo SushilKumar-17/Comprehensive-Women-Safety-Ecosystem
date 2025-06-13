@@ -36,7 +36,7 @@ The system is currently in **prototype phase**, and the simulation logic is impl
 
 ## ScreenShots
 <p float="Left">
-<img src="assets/img/img (1).png" width="210" />
+<img src="assets/img/img (1).png" width="230" />
 <img src="assets/img/img (2).png" width="200" />
 <img src="assets/img/img (3).png" width="200" />
 <img src="assets/img/img (4).png" width="400" />
