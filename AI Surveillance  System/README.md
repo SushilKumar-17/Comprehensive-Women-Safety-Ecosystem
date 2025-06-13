@@ -65,7 +65,7 @@ This layer applies safety logic using detection, tracking, and gender classifica
 | Zone intrusion (optional)| Sudden entry into restricted zone            | Log event or trigger alert          |
 
 ## Screenshots
-<img src="AI Surveillance  System/SOS_Recordings/Screenshots/Screenshot 2025-06-13 221334.png" width="150" />
+<img src="https://github.com/SushilKumar-17/Comprehensive-Women-SafeEcosystem/blob/main/AI%20Surveillance%20%20System/SOS_Recordings/Screenshots/Screenshot%202025-06-13%20221334.png" width="150" />
 <img src="https://github.com/user-attachments/assets/a9f06c1b-4efb-48d4-85f2-fc4c6c8d6144" width="150" />
 <img src="https://github.com/user-attachments/assets/a9b3af37-0191-4bd1-b8c4-8edddab9bc4f" width="150" />
 <img src="https://github.com/user-attachments/assets/fa671a47-c8ce-4fdb-8cff-67edb0898ee5" width="150"/>
