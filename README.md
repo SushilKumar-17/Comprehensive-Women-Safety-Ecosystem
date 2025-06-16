@@ -74,16 +74,17 @@ The increase in reported safety incidents highlights the urgent need for intelli
 ## System Architecture
 
 A visual overview of the integrated ecosystem and its communication flow.<br>
-**Use Case Diagram**
+
+### **Use Case Diagram**
 
 <div align="center">
   <img src="assets/img (3).png" alt="AI CCTV" width="1000"/>
 </div>
 
-**System Flowchart**
+### **System Flowchart**
 
 <div align="center">
-  <img src="assets/img (7).jpg" alt="System Flowchart" width="800"/>
+  <img src="assets/img (7).jpg" alt="System Flowchart" width="600"/>
 </div>
 
 ---
