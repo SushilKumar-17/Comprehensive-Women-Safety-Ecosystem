@@ -35,12 +35,13 @@ The system is currently in **prototype phase**, and the simulation logic is impl
 - `watch.ipynb` – Jupyter Notebook demonstrating end-to-end logic flow using simulated data streams and ML classification.
 
 ## ScreenShots
-<img src="assets/img/img (1).png" width="200" />
+<p float="Left">
+<img src="assets/img/img (1).png" width="227" />
 <img src="assets/img/img (2).png" width="200" />
 <img src="assets/img/img (3).png" width="200" />
 <img src="assets/img/img (4).png" width="400" />
 <img src="assets/img/img (5).png" width="400" />
-
+</p>
 
 ---
 

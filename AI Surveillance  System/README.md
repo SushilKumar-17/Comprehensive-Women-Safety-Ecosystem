@@ -66,9 +66,11 @@ This layer applies safety logic using detection, tracking, and gender classifica
 
 ## Screenshots
 <img src="SOS_Recordings/Screenshots/img (1).png" width="400" />
+<p float="Left">
 <img src="SOS_Recordings/Screenshots/img (2).png" width="400" />
 <img src="SOS_Recordings/Screenshots/img (3).png" width="400" />
 <img src="SOS_Recordings/Screenshots/img (5).png" width="400" />
+</p>
 
 ## Input and Output
 **Input:** Live camera feed or recorded CCTV footage<br>

@@ -3,6 +3,7 @@
 </div>
 
 ---
+
 # Women Safety Analytics
 
 **Women Safety Analytics** is a comprehensive smart surveillance and alerting framework designed to enhance the safety of women through artificial intelligence and connected technology. This ecosystem comprises three core components: an AI-powered CCTV system, a mobile safety application, and a biometric-enabled wearable (watch) system. Each part is tailored to detect threats, send alerts, and support proactive safety interventions in real time.
@@ -71,13 +72,13 @@ The increase in reported safety incidents highlights the urgent need for intelli
 - **Seamless Sync**  
   Syncs with the mobile app for location tracking and incident logging.
 
-
 ---
 
 ## System Architecture
 
 A visual overview of the integrated ecosystem and its communication flow.<br>
 **Use Case Diagram**
+
 <div align="center">
   <img src="assets/img (3).png" alt="AI CCTV" width="1000"/>
 </div>
@@ -107,6 +108,7 @@ A visual overview of the integrated ecosystem and its communication flow.<br>
 </div>
 
 ---
+
 ### Watch Interface
 
 <div align="center">
@@ -116,17 +118,17 @@ A visual overview of the integrated ecosystem and its communication flow.<br>
 
 ## Applications
 
-- Public safety enhancement in smart cities  
-- Women’s safety during travel and commute  
-- Campus and institutional security systems  
-- Integration with law enforcement support tools  
+- Public safety enhancement in smart cities
+- Women’s safety during travel and commute
+- Campus and institutional security systems
+- Integration with law enforcement support tools
 - Real-time crowdsourced intelligence gathering
 
 ---
+
 ## Demonstration
 
 [![Watch the Demo](https://img.youtube.com/vi/cT-eFxZDEfg/hqdefault.jpg)](https://www.youtube.com/watch?v=cT-eFxZDEfg)
-
 
 Explore the working demo of the Women Safety Analytics system and its real-time features in action.
 
@@ -134,13 +136,12 @@ Explore the working demo of the Women Safety Analytics system and its real-time 
 
 ## Contributors
 
-- **Sushil Kumar Patra**  (Team Lead)
+- **Sushil Kumar Patra** (Team Lead)
 - Udai Raj Singh Negi
 - Himanshi Bharadwaj
 - Vansh Rana
 - Parth Atal
 - Abhishek Gargya
-
 
 ---
 
