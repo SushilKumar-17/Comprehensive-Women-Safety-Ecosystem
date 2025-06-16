@@ -26,7 +26,7 @@ The increase in reported safety incidents highlights the urgent need for intelli
 
 <div align="center">
   <img src="assets/img (2).png" alt="AI CCTV" width="300"/>
-  <img src="assets/img (1).png" alt="App Demo Features" width="300"/>
+  <img src="assets/img (1).png" alt="App Demo Features" width="500"/>
 </div>
 
 ### 1. AI-Powered CCTV System
