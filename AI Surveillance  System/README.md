@@ -64,20 +64,18 @@ This layer applies safety logic using detection, tracking, and gender classifica
 | Surrounded female        | Female:Male ratio below defined threshold    | Start recording and raise alert     |
 | Zone intrusion (optional)| Sudden entry into restricted zone            | Log event or trigger alert          |
 
-## Screenshots
-<div align="centre">
-    <img src="SOS_Recordings/Screenshots/img (1).png" width="530" />
-    <img src="SOS_Recordings/Screenshots/img (2).png" width="400" />
-</div>
-
-## Demonstration
-
+## Demo
 ### CCTV-Based Threat Recognition Demo
 
 <div align="center">
   <img src="assets/vid.gif" width="600" alt="Video">
 </div>
 
+## Screenshots
+<div align="centre">
+    <img src="SOS_Recordings/Screenshots/img (1).png" width="530" />
+    <img src="SOS_Recordings/Screenshots/img (2).png" width="400" />
+</div>
 
 ## Input and Output
 **Input:** Live camera feed or recorded CCTV footage<br>
