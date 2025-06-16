@@ -66,8 +66,8 @@ This layer applies safety logic using detection, tracking, and gender classifica
 
 ## Screenshots
 <div align="centre">
-    <img src="SOS_Recordings/Screenshots/img (1).png" width="430" />
-    <img src="SOS_Recordings/Screenshots/img (2).png" width="300" />
+    <img src="SOS_Recordings/Screenshots/img (1).png" width="530" />
+    <img src="SOS_Recordings/Screenshots/img (2).png" width="400" />
 </div>
 
 ## Demonstration
