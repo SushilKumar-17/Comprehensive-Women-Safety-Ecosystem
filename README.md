@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img (9).jpg" alt="AI CCTV" width="700"/>
+  <img src="assets/img (9).jpg" alt="AI CCTV" width="1000"/>
 </div>
 
 ---
