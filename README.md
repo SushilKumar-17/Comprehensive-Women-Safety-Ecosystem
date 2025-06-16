@@ -83,7 +83,7 @@ A visual overview of the integrated ecosystem and its communication flow.<br>
 **System Flowchart**
 
 <div align="center">
-  <img src="assets/img (7).jpg" alt="System Flowchart" width="350"/>
+  <img src="assets/img (7).jpg" alt="System Flowchart" width="800"/>
 </div>
 
 ---
