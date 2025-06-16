@@ -18,7 +18,7 @@ The increase in reported safety incidents highlights the urgent need for intelli
 
 **Rising Safety Threats for Women**
 
-<img src="assets/animated_chart.gif" width="800" alt="Rising Cases">
+<img src="assets/animated_chart.gif" width="500" alt="Rising Cases">
 
 ---
 
@@ -26,6 +26,7 @@ The increase in reported safety incidents highlights the urgent need for intelli
 
 <div align="center">
   <img src="assets/img (2).png" alt="AI CCTV" width="300"/>
+  <img src="assets/img (1).png" alt="App Demo Features" width="300"/>
 </div>
 
 ### 1. AI-Powered CCTV System
@@ -54,10 +55,6 @@ The increase in reported safety incidents highlights the urgent need for intelli
 
 - **Heatmap Generation**  
   Visual representation of high-risk zones based on historic reports and alerts, helping users avoid unsafe areas.
-
-<div align="center">
-  <img src="assets/img (1).png" alt="App Demo Features" width="300"/>
-</div>
 
 ---
 
