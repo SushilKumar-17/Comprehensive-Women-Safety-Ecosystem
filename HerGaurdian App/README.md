@@ -113,18 +113,18 @@ This project was built for educational and hackathon purposes. While it uses rea
 ## App Interface (Figma Prototype)
 
 <div align="center">
-  <img src="assets/img (5).png" alt="App UI with Map & SOS" width="650"/>
+  <img src="assets/img (5).png" alt="App UI with Map & SOS" width="750"/>
 </div>
 
 ## App in Work (Live working)
 <dib align="centre">
-<img src="https://github.com/user-attachments/assets/18b9d3f9-4aaf-4b4d-8d9a-a5f643a7ed21" width="150"/>
-<img src="https://github.com/user-attachments/assets/d7133b87-81ad-4536-89ce-25125ae0883f" width="150" />
-<img src="https://github.com/user-attachments/assets/a9f06c1b-4efb-48d4-85f2-fc4c6c8d6144" width="150" />
-<img src="https://github.com/user-attachments/assets/a9b3af37-0191-4bd1-b8c4-8edddab9bc4f" width="150" />
-<img src="https://github.com/user-attachments/assets/fa671a47-c8ce-4fdb-8cff-67edb0898ee5" width="150"/>
-<img src="https://github.com/user-attachments/assets/185a0a71-356d-4e5b-99ff-2df0172753b5" width="150" />
-<img src="https://github.com/user-attachments/assets/c0d1aaea-ac4b-4811-a96b-60bef33d694b" width="150" />
+<img src="https://github.com/user-attachments/assets/18b9d3f9-4aaf-4b4d-8d9a-a5f643a7ed21" width="250"/>
+<img src="https://github.com/user-attachments/assets/d7133b87-81ad-4536-89ce-25125ae0883f" width="250" />
+<img src="https://github.com/user-attachments/assets/a9f06c1b-4efb-48d4-85f2-fc4c6c8d6144" width="250" />
+<img src="https://github.com/user-attachments/assets/a9b3af37-0191-4bd1-b8c4-8edddab9bc4f" width="250" />
+<img src="https://github.com/user-attachments/assets/fa671a47-c8ce-4fdb-8cff-67edb0898ee5" width="250"/>
+<img src="https://github.com/user-attachments/assets/185a0a71-356d-4e5b-99ff-2df0172753b5" width="250" />
+<img src="https://github.com/user-attachments/assets/c0d1aaea-ac4b-4811-a96b-60bef33d694b" width="250" />
 </div>
 ---
 
