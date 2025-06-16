@@ -1,6 +1,6 @@
-# HerGuardian 👮‍♀️📱
+# APP: HerGuardian 
 
-HerGuardian is a mobile safety application designed to enhance women’s security by providing real-time SOS alerts, AI-integrated surveillance, and seamless connectivity with guardians. This project was built as part of a hackathon initiative and integrates smart technology with user-focused design to ensure emergency responsiveness.
+**HerGuardian** is a mobile safety application as a part of this women safety ecosystem designed to enhance women’s security by providing real-time SOS alerts, AI-integrated surveillance, and seamless connectivity with guardians. This project was built as part of a hackathon initiative and integrates smart technology with user-focused design to ensure emergency responsiveness.
 
 ## Features
 
@@ -21,7 +21,7 @@ HerGuardian is a mobile safety application designed to enhance women’s securit
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 - **Frontend**: React Native (with or without Expo)
 - **Backend**: Your own API (integrate manually)
@@ -31,7 +31,7 @@ HerGuardian is a mobile safety application designed to enhance women’s securit
 
 ---
 
-## 🛠️ Installation Setup
+##  Installation Setup
 
 ### 1. Clone the repository
 
@@ -53,7 +53,7 @@ npx react-native link
 
 ---
 
-## 🔐 Environment Setup
+##  Environment Setup
 
 Create a `.env` file in the root directory and configure the following:
 
@@ -66,7 +66,7 @@ API_KEY=your_google_maps_key
 
 ---
 
-## ▶️ Running the App
+## ▶ Running the App
 
 If you're using **Expo**:
 
@@ -104,14 +104,20 @@ herGuardian/
 
 ---
 
-## 🛡️ Disclaimer
+##  Disclaimer
 
 This project was built for educational and hackathon purposes. While it uses real-time features and attempts to provide genuine help in emergencies, **please do not rely on it in real-world life-threatening situations without thorough testing and validation.**
 
 ---
 
-## 📸 Screenshots
+## App Interface (Figma Prototype)
 
+<div align="center">
+  <img src="assets/img (5).png" alt="App UI with Map & SOS" width="650"/>
+</div>
+
+## App in Work (Live working)
+<dib align="centre">
 <img src="https://github.com/user-attachments/assets/18b9d3f9-4aaf-4b4d-8d9a-a5f643a7ed21" width="150"/>
 <img src="https://github.com/user-attachments/assets/d7133b87-81ad-4536-89ce-25125ae0883f" width="150" />
 <img src="https://github.com/user-attachments/assets/a9f06c1b-4efb-48d4-85f2-fc4c6c8d6144" width="150" />
@@ -119,7 +125,7 @@ This project was built for educational and hackathon purposes. While it uses rea
 <img src="https://github.com/user-attachments/assets/fa671a47-c8ce-4fdb-8cff-67edb0898ee5" width="150"/>
 <img src="https://github.com/user-attachments/assets/185a0a71-356d-4e5b-99ff-2df0172753b5" width="150" />
 <img src="https://github.com/user-attachments/assets/c0d1aaea-ac4b-4811-a96b-60bef33d694b" width="150" />
-
+</div>
 ---
 
 ## # Future Work
@@ -135,7 +141,5 @@ This project was built for educational and hackathon purposes. While it uses rea
 
 This project is a result of a team effort combining AI, IoT, and mobile development to address real-world safety challenges.
 
-- **Sushil Kumar Patra** – Project Lead, Concept Architect, AI & IoT System Integration
-- **Udai Raj Singh Negi** – Android App Development (Her Guardian)
 
 

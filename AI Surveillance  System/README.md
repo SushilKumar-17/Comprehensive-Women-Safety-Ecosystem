@@ -1,8 +1,8 @@
-# AI CCTV Surveillance System 🚨🎥
+# AI CCTV Surveillance System 
 
 An intelligent, gender-aware CCTV surveillance system that integrates real-time object detection, gender classification, and strategic decision logic for SOS alerting and safety monitoring.
 
-## 📌 Project Overview
+##  Project Overview
 
 This system leverages state-of-the-art computer vision and deep learning models to analyze CCTV footage and detect suspicious or critical patterns, especially focused on **women safety analytics**.
 
@@ -30,7 +30,7 @@ AI_CCTV/<br>
 ```
 ---
 
-## 🔁 Pipeline Overview
+## Pipeline Overview
 
 ## 1. Object Detection – YOLOv5
 - **Model Used**: `yolov5s.pt` (can switch between `yolov5n`, `yolov5m`, `yolov5l` based on hardware constraints)
@@ -65,12 +65,19 @@ This layer applies safety logic using detection, tracking, and gender classifica
 | Zone intrusion (optional)| Sudden entry into restricted zone            | Log event or trigger alert          |
 
 ## Screenshots
-<img src="SOS_Recordings/Screenshots/img (1).png" width="400" />
-<p float="Left">
-<img src="SOS_Recordings/Screenshots/img (2).png" width="400" />
-<img src="SOS_Recordings/Screenshots/img (3).png" width="400" />
-<img src="SOS_Recordings/Screenshots/img (5).png" width="400" />
-</p>
+<div align="centre">
+    <img src="SOS_Recordings/Screenshots/img (1).png" width="430" />
+    <img src="SOS_Recordings/Screenshots/img (2).png" width="300" />
+</div>
+
+## Demonstration
+
+### CCTV-Based Threat Recognition Demo
+
+<div align="center">
+  <img src="assets/vid.gif" width="600" alt="Video">
+</div>
+
 
 ## Input and Output
 **Input:** Live camera feed or recorded CCTV footage<br>

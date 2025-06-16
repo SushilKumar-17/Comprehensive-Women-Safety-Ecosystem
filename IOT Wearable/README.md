@@ -1,10 +1,10 @@
-# ⌚ IoT-Based Smart Watch for Women Safety
+# IoT-Based Smart Watch for Women Safety
 
 This module presents a **proposed wearable safety system** — a **smart watch** that monitors biometric and motion patterns in real time and triggers alerts in potentially dangerous situations using machine learning.
 
 ---
 
-## 🧠 Concept Overview
+## Concept Overview
 
 The smart watch is designed to:
 
@@ -16,7 +16,7 @@ The smart watch is designed to:
 
 ---
 
-## 🔧 Features
+## Features
 
 | Feature                  | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -34,14 +34,16 @@ The system is currently in **prototype phase**, and the simulation logic is impl
 
 - `watch.ipynb` – Jupyter Notebook demonstrating end-to-end logic flow using simulated data streams and ML classification.
 
-## ScreenShots
-<p float="Left">
-<img src="assets/img/img (1).png" width="227" />
-<img src="assets/img/img (2).png" width="200" />
-<img src="assets/img/img (3).png" width="200" />
-<img src="assets/img/img (4).png" width="400" />
-<img src="assets/img/img (5).png" width="400" />
-</p>
+## Watch Interface
+<div align="center">
+  <img src="assets/Picture1.png" alt="App UI with Map & SOS" width="550"/>
+</div>
+
+## Prototuping Demo
+<div align="center">
+  <img src="assets/img (5).png" alt="App UI with Map & SOS" width="550"/>
+  <img src="assets/img (4).png" alt="App UI with Map & SOS" width="550"/>
+</div>
 
 ---
 
