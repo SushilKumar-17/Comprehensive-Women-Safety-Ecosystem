@@ -36,7 +36,7 @@ The system is currently in **prototype phase**, and the simulation logic is impl
 
 ## Watch Interface
 <div align="center">
-  <img src="assets/Picture1.png" alt="App UI with Map & SOS" width="550"/>
+  <img src="assets/Picture1.png" alt="App UI with Map & SOS" width="650"/>
 </div>
 
 ## Prototuping Demo
@@ -57,7 +57,7 @@ View the interactive UI design here:
 
 ---
 
-## ⚙️ Detection Parameters
+##  Detection Parameters
 
 The ML model detects risk based on:
 
@@ -69,18 +69,11 @@ The ML model detects risk based on:
 
 ---
 
-## 🧩 Integration with Her Guardian App
+## Integration with Her Guardian App
 
 - Data from the smart watch is sent to the mobile app.
 - The ML model (trained on collected biometric + movement data) runs inference.
 - If high-risk patterns are identified, app triggers visual + audible alert and logs the event.
-
 ---
-
-## 👥 Contributors
-
-- **Sushil Kumar Patra** – Project Lead 
----
-
 > ⚠️ *This is a prototype under development. Real-time testing on hardware is a future goal. All alerts and ML decisions are currently simulated using real-world assumptions.*
 
