@@ -16,8 +16,9 @@ Developed as a major academic project, this solution leverages cutting-edge tech
 
 The increase in reported safety incidents highlights the urgent need for intelligent, automated intervention systems.
 
-**Rising Safety Threats for Women**
+
 <div align="center">
+  **Rising Safety Threats for Women**
   <img src="assets/animated_chart.gif" width="650" alt="Rising Cases">
 </div>
 ---
