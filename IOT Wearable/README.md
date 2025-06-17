@@ -39,7 +39,7 @@ The system is currently in **prototype phase**, and the simulation logic is impl
   <img src="assets/Picture1.png" alt="App UI with Map & SOS" width="650"/>
 </div>
 
-## Prototuping Demo
+## Prototyping Demo
 <div align="center">
   <img src="assets/img (5).png" alt="App UI with Map & SOS" width="550"/>
   <img src="assets/img (4).png" alt="App UI with Map & SOS" width="550"/>
