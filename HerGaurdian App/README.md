@@ -1,6 +1,14 @@
 # APP: HerGuardian 
 
 **HerGuardian** is a mobile safety application as a part of this women safety ecosystem designed to enhance women’s security by providing real-time SOS alerts, AI-integrated surveillance, and seamless connectivity with guardians. This project was built as part of a hackathon initiative and integrates smart technology with user-focused design to ensure emergency responsiveness.
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ## Features
 
